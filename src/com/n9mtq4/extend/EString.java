@@ -68,6 +68,7 @@ import java.util.regex.PatternSyntaxException;
  * @author  Arthur van Hoff
  * @author  Martin Buchholz
  * @author  Ulf Zibis
+ * @author  Will Bresnahan
  * @see     java.lang.Object#toString()
  * @see     java.lang.StringBuffer
  * @see     java.lang.StringBuilder
